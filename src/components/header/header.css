@@ -72,18 +72,13 @@ h1 {
   -o-transform: translateX(-50%);
 }
 
-.scroll__down{
+.scroll__down {
   position: absolute;
-  right: -2.3rem;
-  bottom: 5rem;
-  transform: rotateX('90deg');
-  -webkit-transform: rotateX('90deg');
-  -moz-transform: rotateX('90deg');
-  -ms-transform: rotateX('90deg');
-  -o-transform: rotateX('90deg');
+  right: -2.8rem;
+  bottom: 7rem;
+  transform: rotate(90deg);
   font-weight: 300;
   font-size: 0.9rem;
-
 }
 
 @media screen and (max-width:1024px){
